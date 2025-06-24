@@ -40,9 +40,9 @@ class Solution {
 }
 
 $solution = new Solution();
-// echo $solution->romanToInt("III") . "\n"; // Output: 3
-// echo $solution->romanToInt("IV") . "\n"; // Output: 4
-// echo $solution->romanToInt("IX") . "\n"; // Output: 9
+echo $solution->romanToInt("III") . "\n"; // Output: 3
+echo $solution->romanToInt("IV") . "\n"; // Output: 4
+echo $solution->romanToInt("IX") . "\n"; // Output: 9
 echo $solution->romanToInt("MCMXCIV"); // Example usage
 
 
